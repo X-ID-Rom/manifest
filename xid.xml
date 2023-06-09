@@ -3,7 +3,7 @@
 
     <remote name="xid-git"
         fetch=".."
-        revision="refs/heads/thirteen" />
+        revision="thirteen" />
 
 
     <!-- AOSP Projects -->
