@@ -16,7 +16,7 @@
         <linkfile src="target" dest="build/target" />
         <linkfile src="tools" dest="build/tools" />
     </project>
-    <project path="vendor/lineage" name="X-ID-Rom/android_vendor_lineage"
+    <project path="vendor/xid-common" name="X-ID-Rom/android_vendor_lineage"
         remote="xid-git" />
 
 </manifest>
