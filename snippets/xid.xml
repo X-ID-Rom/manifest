@@ -18,7 +18,7 @@
     </project>
     <!-- <project path="vendor/xid-common" name="X-ID-Rom/vendor_xid_common"
         remote="xid-git" /> -->
-    <project path="vendor/aosp" name="X-ID-Rom/vendor_aosp_pe"
+    <project path="vendor/xid-common" name="X-ID-Rom/vendor_aosp_pe"
         remote="xid-git" />
 
 </manifest>
