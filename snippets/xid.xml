@@ -17,7 +17,7 @@
         <linkfile src="target" dest="build/target" />
         <linkfile src="tools" dest="build/tools" />
     </project>
-    <project path="vendor/aosp" name="vendor_aosp_pe" remote="xid-main" />
+    <project path="vendor/aosp" name="vendor_aosp" remote="xid-main" />
     <project path="manifest" name="manifest" remote="xid-main" />
 
 </manifest>
