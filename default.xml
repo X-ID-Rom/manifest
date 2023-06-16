@@ -1696,8 +1696,8 @@
   <include name="snippets/remove.xml" />
 
   <!-- Add all PixelExperience repos -->
-  <include name="snippets/xid.xml" />
   <include name="snippets/pixel.xml" />
+  <include name="snippets/xid.xml" />
   <include name="snippets/pixel-extras.xml" />
   <include name="snippets/pixel-caf.xml" />
 

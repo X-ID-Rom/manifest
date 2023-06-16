@@ -5,5 +5,10 @@
         fetch="https://github.com/X-ID-Rom"
         revision="thirteen" />
 
+    <remote name="xid-devices"
+        fetch="https://github.com/XID-Devices"
+        revision="thirteen" />
+
     <project path="vendor/aosp" name="vendor_xid" remote="xid-main" />
+    <project path="manifest" name="manifest" remote="xid-main" />
 </manifest>
