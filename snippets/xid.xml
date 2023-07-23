@@ -3,11 +3,11 @@
 
     <remote name="xid-main"
         fetch="https://github.com/X-ID-Rom"
-        revision="thirteen" />
+        revision="ten" />
 
     <remote name="xid-devices"
         fetch="https://github.com/XID-Devices"
-        revision="thirteen" />
+        revision="ten" />
 
     <project path="vendor/aosp" name="vendor_xid" remote="xid-main" />
     <project path="manifest" name="manifest" remote="xid-main" />
