@@ -24,5 +24,3 @@ $ lunch xid_$device-userdebug
 $ mka bacon
 ```
 
-
-[Gerrit push guide](https://wiki.pixelexperience.org/help/submit-patch/)
